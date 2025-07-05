@@ -1,0 +1,27 @@
+
+--- Script Run: 2025-07-05 12:26:16 ---
+Years: 2001–2025
+Total years: 25
+Diseases:
+- Measles: measles
+- Keuchhusten: pertussis
+- Campylobacteriosis: campylobacter
+- Pneumokokken: pneumococci
+- Gonorrhoe: gonorrhoeae
+- Röteln: rubella
+- Mumps: mumps
+- RSV: rsv
+- Chickenpox: chickenpox
+- Enterovirus: enterovirus
+- Influenza: influenza
+- Hepatitis B: hepatitis_b
+- Hepatitis A: hepatitis_a
+- Hepatitis C: hepatitis_c
+- Hepatitis E: hepatitis_e
+- Haemophilus influenzae: haemofilus_influenzae
+- Influenza, saisonal: influenza
+- Salmonellosis: salmonella
+- Scarlet fever: scarlet_fever
+- Tick-borne encephalitis: tick_borne_encephalitis
+- Tuberculosis: tuberculosis
+--------------------------------

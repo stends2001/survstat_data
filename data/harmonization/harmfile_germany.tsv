@@ -1,0 +1,413 @@
+kreis_token	kreis_name_de	kreis_name_eng	bundesland_name_de	bundesland_token
+01001	Flensburg, Stadt	City of Flensburg	Schleswig-Holstein	01
+01002	Kiel, Stadt	City of Kiel	Schleswig-Holstein	01
+01003	Lübeck, Stadt	City of Lübeck	Schleswig-Holstein	01
+01004	Neumünster, Stadt	City of Neumünster	Schleswig-Holstein	01
+01051	Dithmarschen	Dithmarschen County	Schleswig-Holstein	01
+01053	Herzogtum Lauenburg	Herzogtum Lauenburg County	Schleswig-Holstein	01
+01054	Nordfriesland	Nordfriesland County	Schleswig-Holstein	01
+01055	Ostholstein	Ostholstein County	Schleswig-Holstein	01
+01056	Pinneberg	Pinneberg County	Schleswig-Holstein	01
+01057	Plön	Plön County	Schleswig-Holstein	01
+01058	Rendsburg-Eckernförde	Rendsburg-Eckernförde County	Schleswig-Holstein	01
+01059	Schleswig-Flensburg	Schleswig-Flensburg County	Schleswig-Holstein	01
+01060	Segeberg	Segeberg County	Schleswig-Holstein	01
+01061	Steinburg	Steinburg County	Schleswig-Holstein	01
+01062	Stormarn	Stormarn County	Schleswig-Holstein	01
+02000	Hamburg, Stadt	City of Hamburg	Hamburg	02
+03101	Braunschweig, Stadt	City of Braunschweig	Niedersachsen	03
+03102	Salzgitter, Stadt	City of Salzgitter	Niedersachsen	03
+03103	Wolfsburg, Stadt	City of Wolfsburg	Niedersachsen	03
+03151	Gifhorn	Gifhorn County	Niedersachsen	03
+03153	Goslar	Goslar County	Niedersachsen	03
+03154	Helmstedt	Helmstedt County	Niedersachsen	03
+03155	Northeim	Northeim County	Niedersachsen	03
+03157	Peine	Peine County	Niedersachsen	03
+03158	Wolfenbüttel	Wolfenbüttel County	Niedersachsen	03
+03159	Göttingen	Göttingen County	Niedersachsen	03
+03241	Region Hannover	Greater Hannover	Niedersachsen	03
+03251	Diepholz	Diepholz County	Niedersachsen	03
+03252	Hameln-Pyrmont	Hameln-Pyrmont County	Niedersachsen	03
+03254	Hildesheim	Hildesheim County	Niedersachsen	03
+03255	Holzminden	Holzminden County	Niedersachsen	03
+03256	Nienburg (Weser)	Nienburg (Weser) County	Niedersachsen	03
+03257	Schaumburg	Schaumburg County	Niedersachsen	03
+03351	Celle	Celle County	Niedersachsen	03
+03352	Cuxhaven	Cuxhaven County	Niedersachsen	03
+03353	Harburg	Harburg County	Niedersachsen	03
+03354	Lüchow-Dannenberg	Lüchow-Dannenberg County	Niedersachsen	03
+03355	Lüneburg	Lüneburg County	Niedersachsen	03
+03356	Osterholz	Osterholz County	Niedersachsen	03
+03357	Rotenburg (Wümme)	Rotenburg (Wümme) County	Niedersachsen	03
+03358	Heidekreis	Heidekreis County	Niedersachsen	03
+03359	Stade	Stade County	Niedersachsen	03
+03360	Uelzen	Uelzen County	Niedersachsen	03
+03361	Verden	Verden County	Niedersachsen	03
+03401	Delmenhorst, Stadt	City of Delmenhorst	Niedersachsen	03
+03402	Emden, Stadt	City of Emden	Niedersachsen	03
+03403	Oldenburg (Oldenburg), Stadt	City of Oldenburg	Niedersachsen	03
+03404	Osnabrück, Stadt	City of Osnabrück	Niedersachsen	03
+03405	Wilhelmshaven, Stadt	City of Wilhelmshaven	Niedersachsen	03
+03451	Ammerland	Ammerland County	Niedersachsen	03
+03452	Aurich	Aurich County	Niedersachsen	03
+03453	Cloppenburg	Cloppenburg County	Niedersachsen	03
+03454	Emsland	Emsland County	Niedersachsen	03
+03455	Friesland	Friesland County	Niedersachsen	03
+03456	Grafschaft Bentheim	Grafschaft Bentheim County	Niedersachsen	03
+03457	Leer	Leer County	Niedersachsen	03
+03458	Oldenburg	Oldenburg County	Niedersachsen	03
+03459	Osnabrück	Osnabrück County	Niedersachsen	03
+03460	Vechta	Vechta County	Niedersachsen	03
+03461	Wesermarsch	Wesermarsch County	Niedersachsen	03
+03462	Wittmund	Wittmund County	Niedersachsen	03
+04011	Bremen, Stadt	City of Bremen	Bremen	04
+04012	Bremerhaven, Stadt	City of Bremerhaven	Bremen	04
+05111	Düsseldorf, Stadt	City of Düsseldorf	Nordrhein-Westfalen	05
+05112	Duisburg, Stadt	City of Duisburg	Nordrhein-Westfalen	05
+05113	Essen, Stadt	City of Essen	Nordrhein-Westfalen	05
+05114	Krefeld, Stadt	City of Krefeld	Nordrhein-Westfalen	05
+05116	Mönchengladbach, Stadt	City of Mönchengladbach	Nordrhein-Westfalen	05
+05117	Mülheim an der Ruhr, Stadt	City of Mülheim a.d.Ruhr	Nordrhein-Westfalen	05
+05119	Oberhausen, Stadt	City of Oberhausen	Nordrhein-Westfalen	05
+05120	Remscheid, Stadt	City of Remscheid	Nordrhein-Westfalen	05
+05122	Solingen, Stadt	City of Solingen	Nordrhein-Westfalen	05
+05124	Wuppertal, Stadt	City of Wuppertal	Nordrhein-Westfalen	05
+05154	Kleve	Kleve County	Nordrhein-Westfalen	05
+05158	Mettmann	Mettmann County	Nordrhein-Westfalen	05
+05162	Rhein-Kreis Neuss	Rhein-Kreis Neuss County	Nordrhein-Westfalen	05
+05166	Viersen	Viersen County	Nordrhein-Westfalen	05
+05170	Wesel	Wesel County	Nordrhein-Westfalen	05
+05314	Bonn, Stadt	City of Bonn	Nordrhein-Westfalen	05
+05315	Köln, Stadt	City of Köln	Nordrhein-Westfalen	05
+05316	Leverkusen, Stadt	City of Leverkusen	Nordrhein-Westfalen	05
+05334	Städteregion Aachen	Greater Aachen	Nordrhein-Westfalen	05
+05358	Düren	Düren County	Nordrhein-Westfalen	05
+05362	Rhein-Erft-Kreis	Rhein-Erft-Kreis County	Nordrhein-Westfalen	05
+05366	Euskirchen	Euskirchen County	Nordrhein-Westfalen	05
+05370	Heinsberg	Heinsberg County	Nordrhein-Westfalen	05
+05374	Oberbergischer Kreis	Oberbergischer Kreis County	Nordrhein-Westfalen	05
+05378	Rheinisch-Bergischer Kreis	Rheinisch-Bergischer Kreis County	Nordrhein-Westfalen	05
+05382	Rhein-Sieg-Kreis	Rhein-Sieg-Kreis County	Nordrhein-Westfalen	05
+05512	Bottrop, Stadt	City of Bottrop	Nordrhein-Westfalen	05
+05513	Gelsenkirchen, Stadt	City of Gelsenkirchen	Nordrhein-Westfalen	05
+05515	Münster, Stadt	City of Münster	Nordrhein-Westfalen	05
+05554	Borken	Borken County	Nordrhein-Westfalen	05
+05558	Coesfeld	Coesfeld County	Nordrhein-Westfalen	05
+05562	Recklinghausen	Recklinghausen County	Nordrhein-Westfalen	05
+05566	Steinfurt	Steinfurt County	Nordrhein-Westfalen	05
+05570	Warendorf	Warendorf County	Nordrhein-Westfalen	05
+05711	Bielefeld, Stadt	City of Bielefeld	Nordrhein-Westfalen	05
+05754	Gütersloh	Gütersloh County	Nordrhein-Westfalen	05
+05758	Herford	Herford County	Nordrhein-Westfalen	05
+05762	Höxter	Höxter County	Nordrhein-Westfalen	05
+05766	Lippe	Lippe County	Nordrhein-Westfalen	05
+05770	Minden-Lübbecke	Minden-Lübbecke County	Nordrhein-Westfalen	05
+05774	Paderborn	Paderborn County	Nordrhein-Westfalen	05
+05911	Bochum, Stadt	City of Bochum	Nordrhein-Westfalen	05
+05913	Dortmund, Stadt	City of Dortmund	Nordrhein-Westfalen	05
+05914	Hagen, Stadt	City of Hagen	Nordrhein-Westfalen	05
+05915	Hamm, Stadt	City of Hamm	Nordrhein-Westfalen	05
+05916	Herne, Stadt	City of Herne	Nordrhein-Westfalen	05
+05954	Ennepe-Ruhr-Kreis	Ennepe-Ruhr-Kreis County	Nordrhein-Westfalen	05
+05958	Hochsauerlandkreis	Hochsauerlandkreis County	Nordrhein-Westfalen	05
+05962	Märkischer Kreis	Märkischer Kreis County	Nordrhein-Westfalen	05
+05966	Olpe	Olpe County	Nordrhein-Westfalen	05
+05970	Siegen-Wittgenstein	Siegen-Wittgenstein County	Nordrhein-Westfalen	05
+05974	Soest	Soest County	Nordrhein-Westfalen	05
+05978	Unna	Unna County	Nordrhein-Westfalen	05
+06411	Darmstadt, Stadt	City of Darmstadt	Hessen	06
+06412	Frankfurt am Main, Stadt	City of Frankfurt am Main	Hessen	06
+06413	Offenbach am Main, Stadt	City of Offenbach	Hessen	06
+06414	Wiesbaden, Stadt	City of Wiesbaden	Hessen	06
+06431	Bergstraße	Bergstraße County	Hessen	06
+06432	Darmstadt-Dieburg	Darmstadt-Dieburg County	Hessen	06
+06433	Groß-Gerau	Groß-Gerau County	Hessen	06
+06434	Hochtaunuskreis	Hochtaunuskreis County	Hessen	06
+06435	Main-Kinzig-Kreis	Main-Kinzig-Kreis County	Hessen	06
+06436	Main-Taunus-Kreis	Main-Taunus-Kreis County	Hessen	06
+06437	Odenwaldkreis	Odenwaldkreis County	Hessen	06
+06438	Offenbach	Offenbach County	Hessen	06
+06439	Rheingau-Taunus-Kreis	Rheingau-Taunus-Kreis County	Hessen	06
+06440	Wetteraukreis	Wetteraukreis County	Hessen	06
+06531	Gießen	Gießen County	Hessen	06
+06532	Lahn-Dill-Kreis	Lahn-Dill-Kreis County	Hessen	06
+06533	Limburg-Weilburg	Limburg-Weilburg County	Hessen	06
+06534	Marburg-Biedenkopf	Marburg-Biedenkopf County	Hessen	06
+06535	Vogelsbergkreis	Vogelsbergkreis County	Hessen	06
+06611	Kassel, Stadt	City of Kassel	Hessen	06
+06631	Fulda	Fulda County	Hessen	06
+06632	Hersfeld-Rotenburg	Hersfeld-Rotenburg County	Hessen	06
+06633	Kassel	Kassel County	Hessen	06
+06634	Schwalm-Eder-Kreis	Schwalm-Eder-Kreis County	Hessen	06
+06635	Waldeck-Frankenberg	Waldeck-Frankenberg County	Hessen	06
+06636	Werra-Meißner-Kreis	Werra-Meißner-Kreis County	Hessen	06
+07111	Koblenz, Stadt	City of Koblenz	Rheinland-Pfalz	07
+07131	Ahrweiler	Ahrweiler County	Rheinland-Pfalz	07
+07132	Altenkirchen (Westerwald)	Altenkirchen County	Rheinland-Pfalz	07
+07133	Bad Kreuznach	Bad Kreuznach County	Rheinland-Pfalz	07
+07134	Birkenfeld	Birkenfeld County	Rheinland-Pfalz	07
+07135	Cochem-Zell	Cochem-Zell County	Rheinland-Pfalz	07
+07137	Mayen-Koblenz	Mayen-Koblenz County	Rheinland-Pfalz	07
+07138	Neuwied	Neuwied County	Rheinland-Pfalz	07
+07140	Rhein-Hunsrück-Kreis	Rhein-Hunsrück-Kreis County	Rheinland-Pfalz	07
+07141	Rhein-Lahn-Kreis	Rhein-Lahn-Kreis County	Rheinland-Pfalz	07
+07143	Westerwaldkreis	Westerwaldkreis County	Rheinland-Pfalz	07
+07211	Trier, Stadt	City of Trier	Rheinland-Pfalz	07
+07231	Bernkastel-Wittlich	Bernkastel-Wittlich County	Rheinland-Pfalz	07
+07232	Eifelkreis Bitburg-Prüm	Bitburg-Prüm County	Rheinland-Pfalz	07
+07233	Vulkaneifel	Vulkaneifel County	Rheinland-Pfalz	07
+07235	Trier-Saarburg	Trier-Saarburg County	Rheinland-Pfalz	07
+07311	Frankenthal (Pfalz), Stadt	City of Frankenthal	Rheinland-Pfalz	07
+07312	Kaiserslautern, Stadt	City of Kaiserslautern	Rheinland-Pfalz	07
+07313	Landau in der Pfalz, Stadt	City of Landau i.d.Pfalz	Rheinland-Pfalz	07
+07314	Ludwigshafen am Rhein, Stadt	City of Ludwigshafen	Rheinland-Pfalz	07
+07315	Mainz, Stadt	City of Mainz	Rheinland-Pfalz	07
+07316	Neustadt an der Weinstraße, Stadt	City of Neustadt a.d.Weinstraße	Rheinland-Pfalz	07
+07317	Pirmasens, Stadt	City of Pirmasens	Rheinland-Pfalz	07
+07318	Speyer, Stadt	City of Speyer	Rheinland-Pfalz	07
+07319	Worms, Stadt	City of Worms	Rheinland-Pfalz	07
+07320	Zweibrücken, Stadt	City of Zweibrücken	Rheinland-Pfalz	07
+07331	Alzey-Worms	Alzey-Worms County	Rheinland-Pfalz	07
+07332	Bad Dürkheim	Bad Dürkheim County	Rheinland-Pfalz	07
+07333	Donnersbergkreis	Donnersbergkreis County	Rheinland-Pfalz	07
+07334	Germersheim	Germersheim County	Rheinland-Pfalz	07
+07335	Kaiserslautern	Kaiserslautern County	Rheinland-Pfalz	07
+07336	Kusel	Kusel County	Rheinland-Pfalz	07
+07337	Südliche Weinstraße	Südliche Weinstraße County	Rheinland-Pfalz	07
+07338	Rhein-Pfalz-Kreis	Rhein-Pfalz-Kreis County	Rheinland-Pfalz	07
+07339	Mainz-Bingen	Mainz-Bingen County	Rheinland-Pfalz	07
+07340	Südwestpfalz	Südwestpfalz County	Rheinland-Pfalz	07
+08111	Stuttgart, Stadt	City of Stuttgart	Baden-Württemberg	08
+08115	Böblingen	Böblingen County	Baden-Württemberg	08
+08116	Esslingen	Esslingen County	Baden-Württemberg	08
+08117	Göppingen	Göppingen County	Baden-Württemberg	08
+08118	Ludwigsburg	Ludwigsburg County	Baden-Württemberg	08
+08119	Rems-Murr-Kreis	Rems-Murr-Kreis County	Baden-Württemberg	08
+08121	Heilbronn, Stadt	City of Heilbronn	Baden-Württemberg	08
+08125	Heilbronn	Heilbronn County	Baden-Württemberg	08
+08126	Hohenlohekreis	Hohenlohekreis County	Baden-Württemberg	08
+08127	Schwäbisch Hall	Schwäbisch Hall County	Baden-Württemberg	08
+08128	Main-Tauber-Kreis	Main-Tauber-Kreis County	Baden-Württemberg	08
+08135	Heidenheim	Heidenheim County	Baden-Württemberg	08
+08136	Ostalbkreis	Ostalbkreis County	Baden-Württemberg	08
+08211	Baden-Baden, Stadt	City of Baden-Baden	Baden-Württemberg	08
+08212	Karlsruhe, Stadt	City of Karlsruhe	Baden-Württemberg	08
+08215	Karlsruhe	Karlsruhe County	Baden-Württemberg	08
+08216	Rastatt	Rastatt County	Baden-Württemberg	08
+08221	Heidelberg, Stadt	City of Heidelberg	Baden-Württemberg	08
+08222	Mannheim, Stadt	City of Mannheim	Baden-Württemberg	08
+08225	Neckar-Odenwald-Kreis	Neckar-Odenwald-Kreis County	Baden-Württemberg	08
+08226	Rhein-Neckar-Kreis	Rhein-Neckar-Kreis County	Baden-Württemberg	08
+08231	Pforzheim, Stadt	City of Pforzheim	Baden-Württemberg	08
+08235	Calw	Calw County	Baden-Württemberg	08
+08236	Enzkreis	Enzkreis County	Baden-Württemberg	08
+08237	Freudenstadt	Freudenstadt County	Baden-Württemberg	08
+08311	Freiburg im Breisgau, Stadt	City of Freiburg i.Breisgau	Baden-Württemberg	08
+08315	Breisgau-Hochschwarzwald	Breisgau-Hochschwarzwald County	Baden-Württemberg	08
+08316	Emmendingen	Emmendingen County	Baden-Württemberg	08
+08317	Ortenaukreis	Ortenaukreis County	Baden-Württemberg	08
+08325	Rottweil	Rottweil County	Baden-Württemberg	08
+08326	Schwarzwald-Baar-Kreis	Schwarzwald-Baar-Kreis County	Baden-Württemberg	08
+08327	Tuttlingen	Tuttlingen County	Baden-Württemberg	08
+08335	Konstanz	Konstanz County	Baden-Württemberg	08
+08336	Lörrach	Lörrach County	Baden-Württemberg	08
+08337	Waldshut	Waldshut County	Baden-Württemberg	08
+08415	Reutlingen	Reutlingen County	Baden-Württemberg	08
+08416	Tübingen	Tübingen County	Baden-Württemberg	08
+08417	Zollernalbkreis	Zollernalbkreis County	Baden-Württemberg	08
+08421	Ulm, Stadt	City of Ulm	Baden-Württemberg	08
+08425	Alb-Donau-Kreis	Alb-Donau-Kreis County	Baden-Württemberg	08
+08426	Biberach	Biberach County	Baden-Württemberg	08
+08435	Bodenseekreis	Bodenseekreis County	Baden-Württemberg	08
+08436	Ravensburg	Ravensburg County	Baden-Württemberg	08
+08437	Sigmaringen	Sigmaringen County	Baden-Württemberg	08
+09161	Ingolstadt, Stadt	City of Ingolstadt	Bayern	09
+09162	München, Stadt	City of München	Bayern	09
+09163	Rosenheim, Stadt	City of Rosenheim	Bayern	09
+09171	Altötting	Altötting County	Bayern	09
+09172	Berchtesgadener Land	Berchtesgadener Land County	Bayern	09
+09173	Bad Tölz-Wolfratshausen	Bad Tölz-Wolfratshausen County	Bayern	09
+09174	Dachau	Dachau County	Bayern	09
+09175	Ebersberg	Ebersberg County	Bayern	09
+09176	Eichstätt	Eichstätt County	Bayern	09
+09177	Erding	Erding County	Bayern	09
+09178	Freising	Freising County	Bayern	09
+09179	Fürstenfeldbruck	Fürstenfeldbruck County	Bayern	09
+09180	Garmisch-Partenkirchen	Garmisch-Partenkirchen County	Bayern	09
+09181	Landsberg am Lech	Landsberg a.Lech County	Bayern	09
+09182	Miesbach	Miesbach County	Bayern	09
+09183	Mühldorf a.Inn	Mühldorf a.Inn County	Bayern	09
+09184	München	München County	Bayern	09
+09185	Neuburg-Schrobenhausen	Neuburg-Schrobenhausen County	Bayern	09
+09186	Pfaffenhofen a.d.Ilm	Pfaffenhofen a.d.Ilm County	Bayern	09
+09187	Rosenheim	Rosenheim County	Bayern	09
+09188	Starnberg	Starnberg County	Bayern	09
+09189	Traunstein	Traunstein County	Bayern	09
+09190	Weilheim-Schongau	Weilheim-Schongau County	Bayern	09
+09261	Landshut, Stadt	City of Landshut	Bayern	09
+09262	Passau, Stadt	City of Passau	Bayern	09
+09263	Straubing, Stadt	City of Straubing	Bayern	09
+09271	Deggendorf	Deggendorf County	Bayern	09
+09272	Freyung-Grafenau	Freyung-Grafenau County	Bayern	09
+09273	Kelheim	Kelheim County	Bayern	09
+09274	Landshut	Landshut County	Bayern	09
+09275	Passau	Passau County	Bayern	09
+09276	Regen	Regen County	Bayern	09
+09277	Rottal-Inn	Rottal-Inn County	Bayern	09
+09278	Straubing-Bogen	Straubing-Bogen County	Bayern	09
+09279	Dingolfing-Landau	Dingolfing-Landau County	Bayern	09
+09361	Amberg, Stadt	City of Amberg	Bayern	09
+09362	Regensburg, Stadt	City of Regensburg	Bayern	09
+09363	Weiden i.d.OPf., Stadt	City of Weiden i.d.OPf.	Bayern	09
+09371	Amberg-Sulzbach	Amberg-Sulzbach County	Bayern	09
+09372	Cham	Cham County	Bayern	09
+09373	Neumarkt i.d.OPf.	Neumarkt i.d.OPf. County	Bayern	09
+09374	Neustadt a.d.Waldnaab	Neustadt a.d.Waldnaab County	Bayern	09
+09375	Regensburg	Regensburg County	Bayern	09
+09376	Schwandorf	Schwandorf County	Bayern	09
+09377	Tirschenreuth	Tirschenreuth County	Bayern	09
+09461	Bamberg, Stadt	City of Bamberg	Bayern	09
+09462	Bayreuth, Stadt	City of Bayreuth	Bayern	09
+09463	Coburg, Stadt	City of Coburg	Bayern	09
+09464	Hof, Stadt	City of Hof	Bayern	09
+09471	Bamberg	Bamberg County	Bayern	09
+09472	Bayreuth	Bayreuth County	Bayern	09
+09473	Coburg	Coburg County	Bayern	09
+09474	Forchheim	Forchheim County	Bayern	09
+09475	Hof	Hof County	Bayern	09
+09476	Kronach	Kronach County	Bayern	09
+09477	Kulmbach	Kulmbach County	Bayern	09
+09478	Lichtenfels	Lichtenfels County	Bayern	09
+09479	Wunsiedel i.Fichtelgebirge	Wunsiedel i.Fichtelgebirge County	Bayern	09
+09561	Ansbach, Stadt	City of Ansbach	Bayern	09
+09562	Erlangen, Stadt	City of Erlangen	Bayern	09
+09563	Fürth, Stadt	City of Fürth	Bayern	09
+09564	Nürnberg, Stadt	City of Nürnberg	Bayern	09
+09565	Schwabach, Stadt	City of Schwabach	Bayern	09
+09571	Ansbach	Ansbach County	Bayern	09
+09572	Erlangen-Höchstadt	Erlangen-Höchstadt County	Bayern	09
+09573	Fürth	Fürth County	Bayern	09
+09574	Nürnberger Land	Nürnberger Land County	Bayern	09
+09575	Neustadt a.d.Aisch-Bad Windsheim	Neustadt a.d.Aisch-Bad Windsheim County	Bayern	09
+09576	Roth	Roth County	Bayern	09
+09577	Weißenburg-Gunzenhausen	Weißenburg-Gunzenhausen County	Bayern	09
+09661	Aschaffenburg, Stadt	City of Aschaffenburg	Bayern	09
+09662	Schweinfurt, Stadt	City of Schweinfurt	Bayern	09
+09663	Würzburg, Stadt	City of Würzburg	Bayern	09
+09671	Aschaffenburg	Aschaffenburg County	Bayern	09
+09672	Bad Kissingen	Bad Kissingen County	Bayern	09
+09673	Rhön-Grabfeld	Rhön-Grabfeld County	Bayern	09
+09674	Haßberge	Haßberge County	Bayern	09
+09675	Kitzingen	Kitzingen County	Bayern	09
+09676	Miltenberg	Miltenberg County	Bayern	09
+09677	Main-Spessart	Main-Spessart County	Bayern	09
+09678	Schweinfurt	Schweinfurt County	Bayern	09
+09679	Würzburg	Würzburg County	Bayern	09
+09761	Augsburg, Stadt	City of Augsburg	Bayern	09
+09762	Kaufbeuren, Stadt	City of Kaufbeuren	Bayern	09
+09763	Kempten (Allgäu), Stadt	City of Kempten	Bayern	09
+09764	Memmingen, Stadt	City of Memmingen	Bayern	09
+09771	Aichach-Friedberg	Aichach-Friedberg County	Bayern	09
+09772	Augsburg	Augsburg County	Bayern	09
+09773	Dillingen a.d.Donau	Dillingen a.d.Donau County	Bayern	09
+09774	Günzburg	Günzburg County	Bayern	09
+09775	Neu-Ulm	Neu-Ulm County	Bayern	09
+09776	Lindau (Bodensee)	Lindau County	Bayern	09
+09777	Ostallgäu	Ostallgäu County	Bayern	09
+09778	Unterallgäu	Unterallgäu County	Bayern	09
+09779	Donau-Ries	Donau-Ries County	Bayern	09
+09780	Oberallgäu	Oberallgäu County	Bayern	09
+10041	Regionalverband Saarbrücken	Stadtverband Saarbrücken County	Saarland	10
+10042	Merzig-Wadern	Merzig-Wadern County	Saarland	10
+10043	Neunkirchen	Neunkirchen County	Saarland	10
+10044	Saarlouis	Saarlouis County	Saarland	10
+10045	Saarpfalz-Kreis	Saarpfalz-Kreis County	Saarland	10
+10046	St. Wendel	Sankt Wendel County	Saarland	10
+11000	Berlin, Stadt	City of Berlin	Berlin	11
+11001	Berlin Mitte	City of Berlin Mitte	Berlin	11
+11002	Berlin Friedrichschain-Kreuzberg	City of Berlin Friedrichshain-Kreuzberg	Berlin	11
+11003	Berlin Pankow	City of Berlin Pankow	Berlin	11
+11004	Berlin Charlottenburg-Wilmersdorf	City of Berlin Charlottenburg-Wilmersdorf	Berlin	11
+11005	Berlin Spandau	City of Berlin Spandau	Berlin	11
+11006	Berlin Steglitz-Zehlendorf	City of Berlin Steglitz-Zehlendorf	Berlin	11
+11007	Berlin Tempelhof-Schöneberg	City of Berlin Tempelhof-Schöneberg	Berlin	11
+11008	Berlin Neukölln	City of Berlin Neukölln	Berlin	11
+11009	Berlin Treptow-Köpenick	City of Berlin Treptow-Köpenick	Berlin	11
+11010	Berlin Marzahn-Hellersdorf	City of Berlin Marzahn-Hellersdorf	Berlin	11
+11011	Berlin Lichtenberg	City of Berlin Lichtenberg	Berlin	11
+11012	Berlin Reinickendorf	City of Berlin Reinickendorf	Berlin	11
+12051	Brandenburg an der Havel, Stadt	City of Brandenburg a.d.Havel	Brandenburg	12
+12052	Cottbus, Stadt	City of Cottbus	Brandenburg	12
+12053	Frankfurt (Oder), Stadt	City of Frankfurt (Oder)	Brandenburg	12
+12054	Potsdam, Stadt	City of Potsdam	Brandenburg	12
+12060	Barnim	Barnim County	Brandenburg	12
+12061	Dahme-Spreewald	Dahme-Spreewald County	Brandenburg	12
+12062	Elbe-Elster	Elbe-Elster County	Brandenburg	12
+12063	Havelland	Havelland County	Brandenburg	12
+12064	Märkisch-Oderland	Märkisch-Oderland County	Brandenburg	12
+12065	Oberhavel	Oberhavel County	Brandenburg	12
+12066	Oberspreewald-Lausitz	Oberspreewald-Lausitz County	Brandenburg	12
+12067	Oder-Spree	Oder-Spree County	Brandenburg	12
+12068	Ostprignitz-Ruppin	Ostprignitz-Ruppin County	Brandenburg	12
+12069	Potsdam-Mittelmark	Potsdam-Mittelmark County	Brandenburg	12
+12070	Prignitz	Prignitz County	Brandenburg	12
+12071	Spree-Neiße	Spree-Neiße County	Brandenburg	12
+12072	Teltow-Fläming	Teltow-Fläming County	Brandenburg	12
+12073	Uckermark	Uckermark County	Brandenburg	12
+13003	Rostock, Stadt	City of Rostock	Mecklenburg-Vorpommern	13
+13004	Schwerin, Stadt	City of Schwerin	Mecklenburg-Vorpommern	13
+13071	Mecklenburgische Seenplatte	Mecklenburgische Seenplatte County	Mecklenburg-Vorpommern	13
+13072	Landkreis Rostock	Rostock County	Mecklenburg-Vorpommern	13
+13073	Vorpommern-Rügen	Vorpommern-Rügen County	Mecklenburg-Vorpommern	13
+13074	Nordwestmecklenburg	Nordwestmecklenburg County	Mecklenburg-Vorpommern	13
+13075	Vorpommern-Greifswald	Vorpommern-Greifswald County	Mecklenburg-Vorpommern	13
+13076	Ludwigslust-Parchim	Ludwigslust-Parchim County	Mecklenburg-Vorpommern	13
+14511	Chemnitz, Stadt	City of Chemnitz	Sachsen	14
+14521	Erzgebirgskreis	Erzgebirgskreis County	Sachsen	14
+14522	Mittelsachsen	Mittelsachsen County	Sachsen	14
+14523	Vogtlandkreis	Vogtlandkreis County	Sachsen	14
+14524	Zwickau	Zwickau County	Sachsen	14
+14612	Dresden, Stadt	City of Dresden	Sachsen	14
+14625	Bautzen	Bautzen County	Sachsen	14
+14626	Görlitz	Görlitz County	Sachsen	14
+14627	Meißen	Meißen County	Sachsen	14
+14628	Sächsische Schweiz-Osterzgebirge	Sächsische Schweiz-Osterzgebirge County	Sachsen	14
+14713	Leipzig, Stadt	City of Leipzig	Sachsen	14
+14729	Leipzig	Leipzig County	Sachsen	14
+14730	Nordsachsen	Nordsachsen County	Sachsen	14
+15001	Dessau-Roßlau, Stadt	City of Dessau-Roßlau	Sachsen-Anhalt	15
+15002	Halle (Saale), Stadt	City of Halle	Sachsen-Anhalt	15
+15003	Magdeburg, Stadt	City of Magdeburg	Sachsen-Anhalt	15
+15081	Altmarkkreis Salzwedel	Altmarkkreis Salzwedel County	Sachsen-Anhalt	15
+15082	Anhalt-Bitterfeld	Anhalt-Bitterfeld County	Sachsen-Anhalt	15
+15083	Börde	Börde County	Sachsen-Anhalt	15
+15084	Burgenlandkreis	Burgenlandkreis County	Sachsen-Anhalt	15
+15085	Harz	Harz County	Sachsen-Anhalt	15
+15086	Jerichower Land	Jerichower Land County	Sachsen-Anhalt	15
+15087	Mansfeld-Südharz	Mansfeld-Südharz County	Sachsen-Anhalt	15
+15088	Saalekreis	Saalekreis County	Sachsen-Anhalt	15
+15089	Salzlandkreis	Salzlandkreis County	Sachsen-Anhalt	15
+15090	Stendal	Stendal County	Sachsen-Anhalt	15
+15091	Wittenberg	Wittenberg County	Sachsen-Anhalt	15
+16051	Erfurt, Stadt	City of Erfurt	Thüringen	16
+16052	Gera, Stadt	City of Gera	Thüringen	16
+16053	Jena, Stadt	City of Jena	Thüringen	16
+16054	Suhl, Stadt	City of Suhl	Thüringen	16
+16055	Weimar, Stadt	City of Weimar	Thüringen	16
+16061	Eichsfeld	Eichsfeld County	Thüringen	16
+16062	Nordhausen	Nordhausen County	Thüringen	16
+16063	Wartburgkreis	Wartburgkreis County	Thüringen	16
+16064	Unstrut-Hainich-Kreis	Unstrut-Hainich-Kreis County	Thüringen	16
+16065	Kyffhäuserkreis	Kyffhäuserkreis County	Thüringen	16
+16066	Schmalkalden-Meiningen	Schmalkalden-Meiningen County	Thüringen	16
+16067	Gotha	Gotha County	Thüringen	16
+16068	Sömmerda	Sömmerda County	Thüringen	16
+16069	Hildburghausen	Hildburghausen County	Thüringen	16
+16070	Ilm-Kreis	Ilm-Kreis County	Thüringen	16
+16071	Weimarer Land	Weimarer Land County	Thüringen	16
+16072	Sonneberg	Sonneberg County	Thüringen	16
+16073	Saalfeld-Rudolstadt	Saalfeld-Rudolstadt County	Thüringen	16
+16074	Saale-Holzland-Kreis	Saale-Holzland-Kreis County	Thüringen	16
+16075	Saale-Orla-Kreis	Saale-Orla-Kreis County	Thüringen	16
+16076	Greiz	Greiz County	Thüringen	16
+16077	Altenburger Land	Altenburger Land County	Thüringen	16

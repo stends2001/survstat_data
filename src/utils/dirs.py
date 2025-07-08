@@ -1,5 +1,6 @@
 from pathlib import Path
 import os
+import yaml
 
 def get_downloads_folder():
     """
@@ -26,13 +27,22 @@ def get_downloads_folder():
     return downloads_path
 
 project_root = Path(__file__).parent.parent.parent  # Go up from src/ to project root
+config_path = project_root / "config.yaml"
+
+if config_path.exists():
+    with open(config_path, "r") as f:
+        config = yaml.safe_load(f)
+else:
+    config = {}
+
+def get_path(key, default):
+    return Path(os.path.expanduser(config.get(key, default)))
 
 directories_dict = {
-    'project_root'          :   project_root,
-    'dir_downloads'         :   get_downloads_folder(),
-    'dir_data'              :   project_root / 'data',
-    # data > raw 
-    'dir_data_raw'                              :   str(project_root / 'data' / 'raw'),
-    'dir_data_preprocessed'                     :   str(project_root / 'data' / 'preprocessed'),   
-    'dir_data_harmonization'                    :   str(project_root / 'data' / 'harmonization'),
+    'project_root': project_root,
+    'dir_downloads': get_path('downloads_dir', str(Path.home() / 'Downloads')),
+    'dir_data': get_path('data_dir', project_root / 'data'),
+    'dir_data_raw': get_path('raw_data_dir', project_root / 'data' / 'raw'),
+    'dir_data_preprocessed': get_path('preprocessed_data_dir', project_root / 'data' / 'preprocessed'),
+    'dir_data_harmonization': get_path('harmonization_dir', project_root / 'data' / 'harmonization'),
 }

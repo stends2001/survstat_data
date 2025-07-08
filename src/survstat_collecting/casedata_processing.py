@@ -47,10 +47,10 @@ def preprocess_survstat_data(bugs:  Union[List[str], str],
     if not isinstance(bugs, list):
         bugs = [bugs]
 
-    if isinstance(years, str):
-        years = [years]
+    if isinstance(years, (str, int)):
+        years = [str(years)]
 
-    if isinstance(years, range):
+    if isinstance(years, (range, list)):
         years = [str(yy) for yy in years]
 
     for bug in bugs:

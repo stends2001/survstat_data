@@ -1,0 +1,8 @@
+# Directory configuration for survstat_loader
+# You can override any of these paths as needed
+
+data_dir: data
+raw_data_dir: data/raw
+preprocessed_data_dir: data/preprocessed
+harmonization_dir: data/harmonization
+downloads_dir: ~/Downloads 

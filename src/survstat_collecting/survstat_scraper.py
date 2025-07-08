@@ -15,6 +15,7 @@ from tqdm import tqdm
 def remove_downloads_folder(downloads_path: Path):
     """
     Removes possibly existing survstat.zip folder in Downloads.
+    Thereby ensuring that a new survstat.zip will not be called survstat.zip (1) and further.
     """
 
     for file in downloads_path.iterdir():
@@ -25,8 +26,8 @@ def remove_downloads_folder(downloads_path: Path):
                 pass
     
 def scraper(disease: str,
-            year: int,
-            downloads_path: Path) -> Optional[Path]:
+            year: str,
+            downloads_path: Path) -> Path:
     
     """
     Scrapes survstat data for a given disease and year.
@@ -238,13 +239,14 @@ def scraper(disease: str,
     else:
         raise FileNotFoundError("No survstat ZIP file found after download")
 
-
-
 def move_zip(downloads_path: Path,
              latest_zip: Path,
              disease_name_alias: str,
              output_directory: Path,
              year: str):
+    """
+    Extracts data from the .zip file into the new output_directory.
+    """
 
     temp_extract_path = downloads_path / "temp_extract"
     temp_extract_path.mkdir(exist_ok=True)
@@ -270,16 +272,14 @@ def move_zip(downloads_path: Path,
         # Clean up - remove the downloaded ZIP and temp folder
         latest_zip.unlink()
         shutil.rmtree(temp_extract_path)
-        
-        # return str(output_path)
     
     else:
         raise FileNotFoundError("Data.csv not found in downloaded ZIP file")
 
 def scrape_survstat_data(disease_names: Union[Dict, List, str], 
                          years:  Union[str, List[str], range, int], 
-                         downloads_path: Optional[Union[str, Path]],
-                         output_directory: Optional[Union[str, Path]],
+                         downloads_directory: Union[str, Path],
+                         output_directory: Union[str, Path],
                          ):
     """
     Scrapes data from SurvStat for a specific disease and year.
@@ -289,29 +289,32 @@ def scrape_survstat_data(disease_names: Union[Dict, List, str],
 
     Parameters:
     ----------
-    disease_name_rki: str 
-        Name of the disease such that the function can find it on Survstat. For example, Keuchhusten.    
-    year: str 
-        Year to scrape data for
-    output_directory: Optional[str]
-        Directory to save the data (optional)
-    disease_name_alias: Optional[str]
-        Name of the disease for local use. For example, pertussis instead of Keuchhusten.
-        If not specified, the function will use the disease_name_rki.
-        The data is saved under this name in a folder of this name.
-
+    disease_names: Union[str, Dict[str,str], List[str]]
+        Name of the disease such that the function can find it on Survstat. For example: 'Keuchhusten'.
+        You can put in a dictionary, [disease_name_rki : disease_name_alias], or a list of the disease-name_rki,
+        where disease_name_rki corresponds to the naming convention by the RKI, and the disease_name_alias is the name
+        for local use. If not specified, the function will use the disease_name_rki. Else, the data will be stored 
+        using the naming of disease_name_alias.
+    year: Union[str, int, List] 
+        Year(s) to scrape data for
+    downloads_directory: Union[str, Path]
+        download-directory where .zip folders are introduced to the system.
+    output_directory: Union[str, Path]
+        Directory to save the data
     Examples:
     --------
-    >>> dir_data_raw_casedata = directories_dict['dir_data_raw_epidemiology_germany_survstat']
-    >>> diseases_rki = ['Mumps']
-    >>> diseases_me  = ['mumps']
+    >>> scrape_survstat_data(disease_names=diseases_dict, 
+    >>>                      years=str(current_year), 
+    >>>                      output_directory=directories_dict['dir_data_raw'], 
+    >>>                      downloads_directory=directories_dict['dir_downloads'])
 
-    >>> for dd_rki, dd_me in zip(diseases_rki, diseases_me):
-    >>>     for yy in range(2001, 2026): 
-    >>>         scrape_survstat_data(disease_name_rki = dd_rki, year = str(yy), output_directory=dir_data_raw_casedata, disease_name_alias= dd_me)
-    >>> process_survstat_data(diseases_me,[2001,2026])
+    See also:
+    ---------
+    remove_downloads_folder
+    scraper
+    move_zip
     """
-
+    # input validation
     if isinstance(years, int):
         years = str(years)
 
@@ -328,14 +331,14 @@ def scrape_survstat_data(disease_names: Union[Dict, List, str],
         disease_names = {dd:dd for dd in disease_names}
 
     # Handle downloads_path
-    if isinstance(downloads_path, str):
-        downloads_path = Path(downloads_path)
+    if isinstance(downloads_directory, str):
+        downloads_directory = Path(downloads_directory)
 
     if isinstance(output_directory, str):
         output_directory = Path(output_directory)        
 
     # Clearing up all survstat zip folders in the downloads folder
-    remove_downloads_folder(downloads_path)    
+    remove_downloads_folder(downloads_directory)    
 
     # Decide whether to use tqdm for disease_names
     bug_iter = tqdm(disease_names.items(), desc="Diseases") if len(disease_names) > 1 else disease_names.items()
@@ -347,8 +350,8 @@ def scrape_survstat_data(disease_names: Union[Dict, List, str],
         year_iter = tqdm(years, desc=f"Years for {bug_name_alias}") if len(years) > 1 else years
         for yy in year_iter:
             # Downloading the data
-            zip = scraper(bug_name_rki, yy, downloads_path)
+            zip = scraper(bug_name_rki, yy, downloads_directory)
 
-            move_zip(downloads_path, zip, bug_name_alias, output_directory, yy)
+            move_zip(downloads_directory, zip, bug_name_alias, output_directory, yy)
 
-    print('✅ all data has been saved')
+    print('✅ all data has been scraped')

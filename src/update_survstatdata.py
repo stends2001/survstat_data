@@ -15,12 +15,15 @@ def main():
     scrape_survstat_data(disease_names=diseases_dict, 
                          years=str(current_year), 
                          output_directory=directories_dict['dir_data_raw'], 
-                         downloads_path=directories_dict['dir_downloads'])
+                         downloads_directory=directories_dict['dir_downloads'])
 
     preprocess_survstat_data(bugs=list(diseases_dict.values()), 
-                             years=all_years,
+                             years = all_years,
                              raw_data_dir=directories_dict['dir_data_raw'], 
-                             processed_data_dir=directories_dict['dir_data_preprocessed'])
+                             processed_data_dir=directories_dict['dir_data_preprocessed'],
+                             how='reconstruct')
+
+    
 
     log_script_run(diseases_dict, all_years)
 
